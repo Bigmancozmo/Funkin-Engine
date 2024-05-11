@@ -1,3 +1,6 @@
+# FNF ENGINE
+This is **NOT** OFFICIAL!!!! This is a fanmade engine with v0.3.2 of FNF.
+
 # Friday Night Funkin' 
 
 Friday Night Funkin' is a rhythm game. Built using HaxeFlixel for Ludem Dare 47.
